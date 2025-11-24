@@ -12,7 +12,7 @@ All POCs are located in the [`Practice/POC/`](Practice/POC/) directory. Each alg
 
 | Algorithm                  | Notebook                          | Status                  | Focus                                      |
 |----------------------------|-----------------------------------|-------------------------|--------------------------------------------|
-| Naive Bayes                | [`NaiveBayesAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
+| Naive Bayes                | [`NaiveBayesAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
 | Decision Trees             | [`DecisionTreesAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/DecisionTressAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 | Support Vector Machines    | [`SVMAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/SVMAlgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 | Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
