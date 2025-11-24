@@ -14,7 +14,7 @@ All POCs are located in the [`Practice/POC/`](Practice/POC/) directory. Each alg
 |----------------------------|-----------------------------------|-------------------------|--------------------------------------------|
 | Naive Bayes                | [`NaiveBayesAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
 | Decision Trees             | [`DecisionTreesAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/DecisionTressAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| Support Vector Machines    | [`SVMAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/SVMAlgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Support Vector Machines    | [`SVMAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/SVMalgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 | Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 | K-Nearest Neighbors (KNN)  | [`KNNAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/KNNalgo.ipynb)                 | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 
