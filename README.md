@@ -13,10 +13,10 @@ All POCs are located in the [`Practice/POC/`](Practice/POC/) directory. Each alg
 | Algorithm                  | Notebook                          | Status                  | Focus                                      |
 |----------------------------|-----------------------------------|-------------------------|--------------------------------------------|
 | Naive Bayes                | [`NaiveBayesAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/NaiveBayesAlgo.ipynb)           | ✅ POC Complete        | Implementation + Initial Evaluation         |
-| Decision Trees             | [`DecisionTreesAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/DecisionTressAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Decision Trees             | [`DecisionTreesAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/DecisionTressAlgo.ipynb)       | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 | Support Vector Machines    | [`SVMAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/SVMAlgo.ipynb)                   | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
-| K-Nearest Neighbors (KNN)  | [`KNNAlgo.ipynb`](https://github.com/alensomaxx/supervisedLearning/blob/main/Practice/POC/KNNAlgo.ipynb)                 | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| Logistic Regression        | [`LogisticRegressionAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/LogisticRegressionAlgo.ipynb) | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
+| K-Nearest Neighbors (KNN)  | [`KNNAlgo.ipynb`](https://github.com/katariarjunvarma/supervisedLearning/blob/main/KNNalgo.ipynb)                 | ✅ Tuned               | Implementation + Hyperparameter Tuning     |
 
 > All models are trained and evaluated on the **Wisconsin Breast Cancer Dataset** (`Breast_cancer_dataset.csv`) — a classic binary classification benchmark.
 
@@ -43,17 +43,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 jupyter notebook
 ```
 Then navigate to `Practice/POC/` and open any notebook (e.g., `KNNAlgo.ipynb`) to explore, run, and modify!
-
----
-
-### 🤝 Contribution
-
-This repository is primarily for **personal learning and practice**.  
-External contributions via Pull Requests are not accepted, but **feedback, suggestions, or corrections** are very welcome!  
-Feel-contrast free to open an [Issue](https://github.com/alensomaxx/supervisedLearning/issues) anytime.
-
----
-
-### ⭐ Star this repo if you found it helpful for learning supervised ML algorithms!
-
-**Happy learning!** 🚀
